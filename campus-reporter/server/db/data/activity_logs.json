@@ -1,0 +1,62 @@
+[
+  {
+    "id": "195e6221-c6af-492e-8848-565fcdef8a03",
+    "reportId": "73a566e7-21d9-44ee-8dc0-43ca776ad9db",
+    "userId": "usr-student-001",
+    "userName": "Sarah Jenkins",
+    "action": "Report Submitted",
+    "details": "New issue \"Ceiling Fan Making Squeaking Noise in Physics Lab\" logged in Academic Block B (Sciences)",
+    "createdAt": "2026-10-14T06:52:18.292Z",
+    "updatedAt": "2026-10-14T06:52:18.292Z"
+  },
+  {
+    "id": "d4fa58fc-7b37-488d-8cc4-11e148989784",
+    "reportId": "73a566e7-21d9-44ee-8dc0-43ca776ad9db",
+    "userId": "usr-staff-001",
+    "userName": "David Kim",
+    "action": "Status changed to In Progress",
+    "details": "Status updated to In Progress",
+    "createdAt": "2026-10-14T06:52:18.297Z",
+    "updatedAt": "2026-10-14T06:52:18.297Z"
+  },
+  {
+    "id": "3a743a11-b134-4f44-b9ff-a93d8122e943",
+    "reportId": "73a566e7-21d9-44ee-8dc0-43ca776ad9db",
+    "userId": "usr-staff-001",
+    "userName": "David Kim",
+    "action": "Comment Added",
+    "details": "David Kim commented on report #73a566e7-21d9-44ee-8dc0-43ca776ad9db",
+    "createdAt": "2026-10-14T06:52:18.300Z",
+    "updatedAt": "2026-10-14T06:52:18.300Z"
+  },
+  {
+    "id": "8a5365a8-c99f-4eda-9b14-45ea558b6cdc",
+    "reportId": "0ed45e2f-267d-4655-a762-4de87b9bde27",
+    "userId": "usr-student-001",
+    "userName": "Sarah Jenkins",
+    "action": "Report Submitted",
+    "details": "New issue \"Ceiling Fan Making Squeaking Noise in Physics Lab\" logged in Academic Block B (Sciences)",
+    "createdAt": "2026-10-14T07:01:19.185Z",
+    "updatedAt": "2026-10-14T07:01:19.185Z"
+  },
+  {
+    "id": "638c6b79-259b-4fb8-b131-7dae6a9bce2b",
+    "reportId": "0ed45e2f-267d-4655-a762-4de87b9bde27",
+    "userId": "usr-staff-001",
+    "userName": "David Kim",
+    "action": "Status changed to In Progress",
+    "details": "Status updated to In Progress",
+    "createdAt": "2026-10-14T07:01:19.190Z",
+    "updatedAt": "2026-10-14T07:01:19.190Z"
+  },
+  {
+    "id": "d8be269b-1a4f-4975-9600-777e87891f81",
+    "reportId": "0ed45e2f-267d-4655-a762-4de87b9bde27",
+    "userId": "usr-staff-001",
+    "userName": "David Kim",
+    "action": "Comment Added",
+    "details": "David Kim commented on report #0ed45e2f-267d-4655-a762-4de87b9bde27",
+    "createdAt": "2026-10-14T07:01:19.192Z",
+    "updatedAt": "2026-10-14T07:01:19.192Z"
+  }
+]

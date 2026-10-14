@@ -1,0 +1,93 @@
+[
+  {
+    "id": "usr-student-001",
+    "name": "Sarah Jenkins",
+    "email": "student@campus.edu",
+    "password": "$2a$10$Aaau06j2wkQKWwiTlWDYD.13ACUAbUhyBoPZIGWb62E8O4v.zTpX6",
+    "role": "student",
+    "department": "Computer Science & Engineering",
+    "studentId": "CS-2023-042",
+    "phone": "+1 (555) 234-5678",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+    "createdAt": "2026-10-14T06:51:08.709Z",
+    "updatedAt": "2026-10-14T06:51:08.709Z"
+  },
+  {
+    "id": "usr-student-002",
+    "name": "Alex Rivera",
+    "email": "alex@campus.edu",
+    "password": "$2a$10$Aaau06j2wkQKWwiTlWDYD.13ACUAbUhyBoPZIGWb62E8O4v.zTpX6",
+    "role": "student",
+    "department": "Electrical Engineering",
+    "studentId": "EE-2024-118",
+    "phone": "+1 (555) 345-6789",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "createdAt": "2026-10-14T06:51:08.709Z",
+    "updatedAt": "2026-10-14T06:51:08.709Z"
+  },
+  {
+    "id": "usr-staff-001",
+    "name": "David Kim",
+    "email": "itstaff@campus.edu",
+    "password": "$2a$10$Aaau06j2wkQKWwiTlWDYD.DrfGIi9b59R7dgTktvDxpgHYQw/g1ay",
+    "role": "staff",
+    "department": "IT, Wi-Fi & Labs",
+    "staffCode": "STAFF-IT-09",
+    "phone": "+1 (555) 876-5432",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150",
+    "createdAt": "2026-10-14T06:51:08.710Z",
+    "updatedAt": "2026-10-14T06:51:08.710Z"
+  },
+  {
+    "id": "usr-staff-002",
+    "name": "Marcus Vance",
+    "email": "civilstaff@campus.edu",
+    "password": "$2a$10$Aaau06j2wkQKWwiTlWDYD.DrfGIi9b59R7dgTktvDxpgHYQw/g1ay",
+    "role": "staff",
+    "department": "Plumbing & Water",
+    "staffCode": "STAFF-PLUMB-04",
+    "phone": "+1 (555) 987-6543",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "createdAt": "2026-10-14T06:51:08.710Z",
+    "updatedAt": "2026-10-14T06:51:08.710Z"
+  },
+  {
+    "id": "usr-admin-001",
+    "name": "Dr. Eleanor Hayes",
+    "email": "admin@campus.edu",
+    "password": "$2a$10$Aaau06j2wkQKWwiTlWDYD.abzVAfDpXMgosVg/stzi/8IjThTCunS",
+    "role": "admin",
+    "department": "Campus Infrastructure & Dean of Affairs",
+    "staffCode": "DEAN-ADMIN-01",
+    "phone": "+1 (555) 999-0000",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+    "createdAt": "2026-10-14T06:51:08.710Z",
+    "updatedAt": "2026-10-14T06:51:08.710Z"
+  },
+  {
+    "id": "f79cf7dd-0e55-4c03-a08d-d90d79af3186",
+    "name": "Test Engineer",
+    "email": "testuser_1791960738139@campus.edu",
+    "password": "$2a$10$ZZWm1seDIpA3Z/PfyNOjTOJyxeGfTVu3//XG4UDRDUUwn9klnD0Ee",
+    "role": "student",
+    "department": "Robotics Engineering",
+    "studentId": "ROB-2025-01",
+    "phone": null,
+    "avatar": "https://ui-avatars.com/api/?name=Test%20Engineer&background=random",
+    "createdAt": "2026-10-14T06:52:18.196Z",
+    "updatedAt": "2026-10-14T06:52:18.196Z"
+  },
+  {
+    "id": "1f9350a8-3dd4-4cba-9345-f8531fb35c6e",
+    "name": "Test Engineer",
+    "email": "testuser_1791961279029@campus.edu",
+    "password": "$2a$10$TogZReYlgB5ycFbPDyB/.eIjvTMvzYjZ2Nxp49WC0oEQDu1J0GoYW",
+    "role": "student",
+    "department": "Robotics Engineering",
+    "studentId": "ROB-2025-01",
+    "phone": null,
+    "avatar": "https://ui-avatars.com/api/?name=Test%20Engineer&background=random",
+    "createdAt": "2026-10-14T07:01:19.085Z",
+    "updatedAt": "2026-10-14T07:01:19.085Z"
+  }
+]

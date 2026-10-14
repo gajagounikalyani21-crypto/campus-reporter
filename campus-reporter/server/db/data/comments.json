@@ -1,0 +1,54 @@
+[
+  {
+    "id": "cmt-2001",
+    "reportId": "rep-1001",
+    "userId": "usr-staff-001",
+    "userName": "David Kim",
+    "userRole": "staff",
+    "content": "Inspected the projector. Ordered a replacement 3200-lumen lamp from campus central stores. Will arrive by 2 PM and complete installation today.",
+    "createdAt": "2026-10-14T03:51:08.711Z",
+    "updatedAt": "2026-10-14T06:51:08.711Z"
+  },
+  {
+    "id": "cmt-2002",
+    "reportId": "rep-1001",
+    "userId": "usr-student-001",
+    "userName": "Sarah Jenkins",
+    "userRole": "student",
+    "content": "Thank you David! Could you also check the audio 3.5mm jack while you are there? It had static last week.",
+    "createdAt": "2026-10-14T04:51:08.712Z",
+    "updatedAt": "2026-10-14T06:51:08.712Z"
+  },
+  {
+    "id": "cmt-2003",
+    "reportId": "rep-1002",
+    "userId": "usr-staff-002",
+    "userName": "Marcus Vance",
+    "userRole": "staff",
+    "content": "Emergency shut-off valve isolated. Plumbing crew on site with replacement PVC fittings and high-power wet vacs.",
+    "createdAt": "2026-10-14T06:06:08.712Z",
+    "updatedAt": "2026-10-14T06:51:08.712Z"
+  },
+  {
+    "id": "89b49c83-cbcd-45fd-89cf-ed2bf5518c2a",
+    "reportId": "73a566e7-21d9-44ee-8dc0-43ca776ad9db",
+    "userId": "usr-staff-001",
+    "userName": "David Kim",
+    "userRole": "staff",
+    "userDepartment": "IT, Wi-Fi & Labs",
+    "content": "Scheduled maintenance bearing lubrication for this afternoon.",
+    "createdAt": "2026-10-14T06:52:18.300Z",
+    "updatedAt": "2026-10-14T06:52:18.300Z"
+  },
+  {
+    "id": "9772bae2-405e-4193-ae75-f9916562aa14",
+    "reportId": "0ed45e2f-267d-4655-a762-4de87b9bde27",
+    "userId": "usr-staff-001",
+    "userName": "David Kim",
+    "userRole": "staff",
+    "userDepartment": "IT, Wi-Fi & Labs",
+    "content": "Scheduled maintenance bearing lubrication for this afternoon.",
+    "createdAt": "2026-10-14T07:01:19.192Z",
+    "updatedAt": "2026-10-14T07:01:19.192Z"
+  }
+]

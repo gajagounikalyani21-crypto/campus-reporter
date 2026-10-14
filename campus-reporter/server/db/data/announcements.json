@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ann-4001",
+    "title": "Notice: Scheduled Electrical Substation Maintenance on Saturday",
+    "content": "Power supply will be temporarily switched to backup generators in Academic Blocks A & B this Saturday between 6:00 AM and 10:00 AM for routine transformer maintenance. Please save your lab work beforehand.",
+    "priority": "Normal",
+    "authorName": "Dr. Eleanor Hayes (Infrastructure Dean)",
+    "pinned": true,
+    "createdAt": "2026-10-12T06:51:08.712Z",
+    "updatedAt": "2026-10-14T06:51:08.712Z"
+  },
+  {
+    "id": "ann-4002",
+    "title": "Emergency Advisory: High-Wind Storm Warning - Keep Windows Closed",
+    "content": "Severe thunderstorm expected tonight between 7 PM and 11 PM. All hostel residents and lab coordinators are strictly requested to latch all exterior windows and report any fallen branches or water ingress immediately via Campus Reporter.",
+    "priority": "Urgent",
+    "authorName": "Campus Safety & Disaster Cell",
+    "pinned": true,
+    "createdAt": "2026-10-14T00:51:08.713Z",
+    "updatedAt": "2026-10-14T06:51:08.713Z"
+  },
+  {
+    "id": "ed0fbe51-6203-4727-bff8-decfaab0e91f",
+    "title": "Water Supply Shutdown for Maintenance",
+    "content": "Water supply to West Block will be suspended between 2 PM and 5 PM today for valve checks.",
+    "priority": "Normal",
+    "pinned": true,
+    "authorId": "usr-admin-001",
+    "authorName": "Dr. Eleanor Hayes",
+    "authorRole": "admin",
+    "createdAt": "2026-10-14T06:52:18.410Z",
+    "updatedAt": "2026-10-14T06:52:18.410Z"
+  },
+  {
+    "id": "2e42e230-2ef7-4afb-9c52-fee8e3db4a06",
+    "title": "Water Supply Shutdown for Maintenance",
+    "content": "Water supply to West Block will be suspended between 2 PM and 5 PM today for valve checks.",
+    "priority": "Normal",
+    "pinned": true,
+    "authorId": "usr-admin-001",
+    "authorName": "Dr. Eleanor Hayes",
+    "authorRole": "admin",
+    "createdAt": "2026-10-14T07:01:19.292Z",
+    "updatedAt": "2026-10-14T07:01:19.292Z"
+  }
+]

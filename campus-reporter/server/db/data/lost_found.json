@@ -1,0 +1,47 @@
+[
+  {
+    "id": "lf-3001",
+    "type": "Lost",
+    "title": "Black Lenovo ThinkPad Laptop in Gray Inateck Sleeve",
+    "category": "Electronics",
+    "location": "Cafeteria South Wing, Table 14",
+    "date": "2026-10-13",
+    "description": "Left behind during lunch rush around 1:30 PM. Has stickers of React, GitHub Octocat, and Docker on the lid. Very important thesis work inside!",
+    "contactInfo": "student@campus.edu or WhatsApp +1-555-234-5678",
+    "status": "Active",
+    "reportedBy": "usr-student-001",
+    "reporterName": "Sarah Jenkins",
+    "createdAt": "2026-10-14T06:51:08.712Z",
+    "updatedAt": "2026-10-14T06:51:08.712Z"
+  },
+  {
+    "id": "lf-3002",
+    "type": "Found",
+    "title": "Blue Hydro Flask Water Bottle with Campus Gym sticker",
+    "category": "Personal Belongings",
+    "location": "Indoor Sports Complex, Court 2 bleachers",
+    "date": "2026-10-13",
+    "description": "Found after the inter-batch badminton tournament. 32oz insulated bottle, navy blue color. Handed over to the Sports Center front desk.",
+    "contactInfo": "Claim at Sports Center Reception (Mon-Fri 8 AM - 6 PM)",
+    "status": "Active",
+    "reportedBy": "usr-staff-001",
+    "reporterName": "David Kim",
+    "createdAt": "2026-10-14T06:51:08.712Z",
+    "updatedAt": "2026-10-14T06:51:08.712Z"
+  },
+  {
+    "id": "lf-3003",
+    "type": "Found",
+    "title": "Set of 3 Keys on a Red NASA Lanyard with Flash Drive",
+    "category": "Keys & IDs",
+    "location": "Central Library, 2nd floor photocopying station",
+    "date": "2026-10-12",
+    "description": "Two brass keys, one bike key, and a 64GB Kingston flash drive on red lanyard. Deposited at Library Security Desk.",
+    "contactInfo": "Library Security Cabin (Ext: 4421)",
+    "status": "Claimed",
+    "reportedBy": "usr-admin-001",
+    "reporterName": "Dr. Eleanor Hayes",
+    "createdAt": "2026-10-14T06:51:08.712Z",
+    "updatedAt": "2026-10-14T06:51:08.712Z"
+  }
+]

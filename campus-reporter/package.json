@@ -1,0 +1,29 @@
+{
+  "name": "campus-reporter",
+  "version": "1.0.0",
+  "description": "Campus Reporter - A comprehensive smart incident, grievance, and facility issue management system for college & university campuses",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "test": "node --test --test-concurrency=1 tests/*.test.js"
+  },
+  "keywords": [
+    "campus-reporter",
+    "issue-tracker",
+    "incident-reporting",
+    "grievance-redressal",
+    "student-portal",
+    "campus-management"
+  ],
+  "author": "Campus Engineering Team",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}

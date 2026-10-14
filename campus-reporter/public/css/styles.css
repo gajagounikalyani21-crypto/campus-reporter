@@ -1,0 +1,116 @@
+/* Custom styles and animations for Campus Reporter */
+
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 0 8px rgba(239, 68, 68, 0);
+  }
+}
+
+.pulse-critical {
+  animation: pulseGlow 2s infinite;
+}
+
+/* Glassmorphism effects */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(10px);
+}
+
+.card-hover {
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.card-hover:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 24px -10px rgba(0, 0, 0, 0.08), 0 4px 6px -2px rgba(0, 0, 0, 0.04);
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Upvote button active state animation */
+.upvote-active {
+  background-color: #eff6ff !important;
+  color: #2563eb !important;
+  border-color: #bfdbfe !important;
+}
+
+/* Progress Tracker */
+.step-complete {
+  background-color: #10b981;
+  color: #ffffff;
+}
+
+.step-active {
+  background-color: #3b82f6;
+  color: #ffffff;
+}
+
+.step-pending {
+  background-color: #e2e8f0;
+  color: #64748b;
+}
+
+/* Badge colors */
+.badge-emergency {
+  background-color: #fee2e2;
+  color: #991b1b;
+  border: 1px solid #fecaca;
+}
+.badge-high {
+  background-color: #ffedd5;
+  color: #9a3412;
+  border: 1px solid #fed7aa;
+}
+.badge-medium {
+  background-color: #fef3c7;
+  color: #92400e;
+  border: 1px solid #fde68a;
+}
+.badge-low {
+  background-color: #f1f5f9;
+  color: #475569;
+  border: 1px solid #e2e8f0;
+}
+
+/* Status colors */
+.status-submitted {
+  background-color: #f3f4f6;
+  color: #374151;
+}
+.status-under-review {
+  background-color: #f3e8ff;
+  color: #6b21a8;
+}
+.status-assigned {
+  background-color: #e0f2fe;
+  color: #0369a1;
+}
+.status-in-progress {
+  background-color: #fef3c7;
+  color: #b45309;
+}
+.status-resolved {
+  background-color: #d1fae5;
+  color: #065f46;
+}
+.status-rejected {
+  background-color: #fee2e2;
+  color: #b91c1c;
+}
